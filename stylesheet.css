@@ -33,3 +33,15 @@ nav li {
 body {
 background-color: #4DDB4D;
 }
+
+#topic {
+	border-style: groove;
+	border-width: 5px;
+	border-color: green;
+	background-color: #99E699;
+	padding: 10px;
+}
+
+.furryleaf {
+	margin: 0;
+}
